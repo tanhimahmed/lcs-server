@@ -1,4 +1,4 @@
-package com.xfinity.interview.exception;
+package com.xfinity.interview.lcs.exception;
 
 public class SetContainsDuplicateException extends RuntimeException {
 

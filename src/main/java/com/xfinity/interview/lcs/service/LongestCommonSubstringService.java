@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 import org.springframework.stereotype.Service;
 
-import com.xfinity.interview.exception.SetContainsDuplicateException;
+import com.xfinity.interview.lcs.exception.SetContainsDuplicateException;
 import com.xfinity.interview.lcs.model.LongestCommonSubstring;
 import com.xfinity.interview.lcs.model.SetOfStrings;
 import com.xfinity.interview.lcs.model.StringNode;
